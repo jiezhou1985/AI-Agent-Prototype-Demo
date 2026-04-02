@@ -1,0 +1,221 @@
+archetypes:
+  - id: "stress_shopper"
+    name: "Stress Shopper"
+    description: >
+      Uses purchasing as a coping mechanism for anxiety, work pressure, or emotional overwhelm.
+      The act of browsing and buying provides a temporary sense of control and relief. The cycle
+      typically follows: stressful event, emotional discomfort, browsing as distraction, purchase
+      as relief, brief satisfaction, guilt or regret, repeat.
+    common_triggers:
+      - "End of a difficult workday"
+      - "Conflict with a partner, friend, or family member"
+      - "Feeling overwhelmed by responsibilities"
+      - "Sunday evening anxiety about the coming week"
+      - "Physical exhaustion mistaken for emotional need"
+    emotional_reward: "Temporary sense of control and self-soothing. The decision to buy feels like agency when everything else feels chaotic."
+    typical_categories:
+      - "Clothing and accessories"
+      - "Skincare and beauty products"
+      - "Comfort food delivery"
+      - "Home organization products (ironic — buying more to feel less cluttered)"
+      - "Self-help books and courses"
+    sage_approach: >
+      Focus on the upstream cause, not the spending itself. Help the user identify their stress
+      signals before the browsing begins. Offer alternative coping strategies timed to their
+      vulnerable windows. Never shame the behavior — it makes biological sense to seek comfort.
+      Gradually build a toolkit of free or low-cost soothing alternatives. Celebrate awareness
+      even when it doesn't change behavior yet.
+
+  - id: "status_seeker"
+    name: "Status Seeker"
+    description: >
+      Purchases driven by social positioning — wanting to signal success, competence, or belonging
+      to a particular class. Often unconscious; the person genuinely believes they want the item
+      for its qualities rather than its signaling value. Deeply tied to professional identity
+      and community norms.
+    common_triggers:
+      - "Seeing a colleague's or neighbor's new purchase"
+      - "Promotion or raise (new income 'needs' to be displayed)"
+      - "Social gatherings where comparisons are implicit"
+      - "Professional events where appearance signals competence"
+      - "Children's activities where gear quality is visible"
+    emotional_reward: "Feeling of belonging, respect, and safety within a social group. At its root, this is about not being excluded or judged."
+    typical_categories:
+      - "Vehicles"
+      - "Premium home appliances and furnishings"
+      - "Brand-name clothing and accessories"
+      - "Children's gear and activities"
+      - "Technology (latest models)"
+    sage_approach: >
+      Approach with empathy — status-seeking is a deeply human response to social environments,
+      not a character flaw. Help the user distinguish between purchases that genuinely improve
+      their life and those driven by comparison. Explore what respect and belonging actually
+      require in their specific context. Avoid moralizing. Focus on the gap between spending
+      and actual satisfaction rather than the spending itself.
+
+  - id: "boredom_buyer"
+    name: "Boredom Buyer"
+    description: >
+      Shops primarily for stimulation and entertainment when understimulated. Browsing feels
+      like an activity, and purchasing provides a dopamine hit. Often happens during downtime,
+      commutes, or periods of low engagement. The items purchased are frequently forgotten
+      once they arrive.
+    common_triggers:
+      - "Waiting rooms, commutes, or idle time"
+      - "Weekends without plans"
+      - "Work tasks that are tedious or unengaging"
+      - "Late nights when too tired for effortful activities but too awake to sleep"
+      - "Scrolling social media that transitions into shopping apps"
+    emotional_reward: "Stimulation and novelty. The browsing itself is often more rewarding than receiving the item. The anticipation of arrival provides ongoing micro-excitement."
+    typical_categories:
+      - "Novelty items and gadgets"
+      - "Books and media (bought but never consumed)"
+      - "Kitchen gadgets and tools"
+      - "Hobby supplies for hobbies not yet started"
+      - "Sale items across all categories"
+    sage_approach: >
+      Help the user recognize that the need for stimulation is legitimate — the problem isn't
+      the need, it's the channel. Build a menu of engaging alternatives that provide similar
+      novelty without spending. Address the browsing habit specifically — it's often the
+      gateway. Suggest app timers, browser extensions, or physical separation from devices
+      during high-risk periods.
+
+  - id: "identity_consumer"
+    name: "Identity Consumer"
+    description: >
+      Purchases are a primary means of self-expression and identity construction. What they
+      own communicates who they are — or who they're becoming — to themselves and others.
+      This is especially significant for people in identity transitions (coming of age,
+      gender expression, cultural navigation, career changes). Sage must treat this with
+      particular care because dismissing these purchases can feel like dismissing the person.
+    common_triggers:
+      - "Identity exploration or transition periods"
+      - "Exposure to a community or subculture they want to join"
+      - "Social media aesthetics that resonate deeply"
+      - "Feeling invisible or misread by others"
+      - "Desire to externalize internal change"
+    emotional_reward: "Feeling seen, authentic, and coherent. The right purchase can feel like finding a missing piece of yourself. This is not trivial."
+    typical_categories:
+      - "Clothing and fashion"
+      - "Art, books, and music"
+      - "Aesthetic home decor"
+      - "Tattoos, piercings, and body modification"
+      - "Subculture-specific gear and accessories"
+    sage_approach: >
+      Never dismiss identity-driven purchases as superficial. Start by validating that
+      self-expression is a genuine need, then explore sustainable and affordable ways to
+      meet it. Help the user build a personal style that's durable rather than trend-driven.
+      Encourage creative DIY, thrifting, swapping, and making as forms of even deeper
+      self-expression. The goal is not less expression but more intentional expression.
+
+  - id: "social_shopper"
+    name: "Social Shopper"
+    description: >
+      Purchasing is embedded in social relationships — shopping with friends, gift-giving
+      cultures, group activities centered on buying, or cultural/family expectations about
+      generosity and provision. The spending is inseparable from the social bond, making
+      it particularly hard to change without risking relationships.
+    common_triggers:
+      - "Friends suggesting a shopping outing"
+      - "Cultural celebrations requiring gifts or contributions"
+      - "Peer group where new purchases are a conversation topic"
+      - "Family expectations around holidays, visits, or milestones"
+      - "Online communities built around product recommendations"
+    emotional_reward: "Connection, belonging, and fulfilling social obligations. Saying no to spending can feel like saying no to people."
+    typical_categories:
+      - "Gifts for others"
+      - "Group dining and entertainment"
+      - "Matching or coordinating purchases with friends"
+      - "Cultural celebration supplies and attire"
+      - "Remittances and family financial support"
+    sage_approach: >
+      Respect the social and cultural context completely. Never suggest that someone simply
+      opt out of communal obligations. Instead, help negotiate within the system — proposing
+      spending limits that the group agrees to, suggesting experience-based gifts, finding
+      non-monetary ways to express generosity. For cultural obligations, work within the
+      cultural framework rather than imposing individualistic financial advice.
+
+  - id: "comfort_accumulator"
+    name: "Comfort Accumulator"
+    description: >
+      Purchases provide a sense of security, warmth, and emotional comfort — often rooted
+      in experiences of scarcity, loss, or instability. The home becomes a nest, and
+      acquisition feels like building safety. Distinct from hoarding disorder but shares
+      some emotional roots. Particularly common among older adults living alone and people
+      who experienced childhood poverty.
+    common_triggers:
+      - "Feelings of loneliness or isolation"
+      - "Grief, loss, or anniversary of a loss"
+      - "Seasonal changes (long winters, holidays)"
+      - "Parasocial relationships with TV hosts or online personalities"
+      - "Physical discomfort or health concerns that amplify desire for coziness"
+    emotional_reward: "Warmth, safety, and the feeling of being cared for. Packages arriving can feel like receiving a gift — someone sent something just for you."
+    typical_categories:
+      - "Home decor and textiles"
+      - "Kitchen items and cookware"
+      - "Books, puzzles, and craft supplies"
+      - "Garden and plant supplies"
+      - "Comfort clothing like blankets, robes, and slippers"
+    sage_approach: >
+      Address loneliness and isolation as the root cause — no amount of purchase reduction
+      will work without alternative sources of comfort and connection. Help the user find
+      community (virtual or in-person). Frame decluttering as making space for life, not
+      as taking things away. Be patient — this pattern is deeply emotional and often
+      tied to grief. Never frame accumulation as irrational.
+
+  - id: "deal_hunter"
+    name: "Deal Hunter"
+    description: >
+      Driven by the thrill of finding a bargain rather than genuine need for the product.
+      Sales, coupons, flash deals, and limited-time offers create urgency that overrides
+      rational evaluation. The person often feels smart and savvy when buying on sale,
+      even when the purchase is unnecessary. Can actually spend more overall while feeling
+      like they're saving.
+    common_triggers:
+      - "Sale notifications and emails"
+      - "Flash deals and limited-time offers"
+      - "Coupon apps and cashback programs"
+      - "End-of-season clearance events"
+      - "Price comparison that reveals a 'deal' on something they weren't looking for"
+    emotional_reward: "Feeling clever, competent, and ahead of the game. The savings narrative provides a virtuous justification that bypasses the 'should I buy this at all' question."
+    typical_categories:
+      - "Bulk goods (beyond what can be used)"
+      - "Off-season clothing"
+      - "Household supplies bought in excess"
+      - "Electronics on sale"
+      - "Anything with a percentage-off that seems too good to pass up"
+    sage_approach: >
+      Redirect the analytical skill — deal hunters are often genuinely smart about value.
+      Help them apply that intelligence to the first question (do I need this?) rather than
+      the second question (is this a good price?). Introduce the concept of the true cost
+      of a deal: storage space, mental clutter, opportunity cost of money. Channel the
+      competitive instinct toward savings goals — "beating" a spending target can provide
+      the same thrill as beating a price.
+
+  - id: "aspirational_purchaser"
+    name: "Aspirational Purchaser"
+    description: >
+      Buys for a future or idealized version of themselves — the person who works out daily,
+      cooks elaborate meals, paints on weekends, or hikes every trail. The purchase feels
+      like a commitment to becoming that person, but the items often go unused because the
+      identity gap between current and aspirational self is larger than a purchase can bridge.
+    common_triggers:
+      - "New Year's resolutions or fresh-start moments"
+      - "Seeing someone living the life they want"
+      - "Life transitions (new job, new city, breakup)"
+      - "Inspirational content — documentaries, podcasts, social media"
+      - "Brief moments of motivation that feel permanent"
+    emotional_reward: "Hope and possibility. The purchase is a tangible token of the person they want to become. Buying the running shoes feels like running."
+    typical_categories:
+      - "Fitness equipment and activewear"
+      - "Kitchen appliances and cookbooks"
+      - "Art and craft supplies"
+      - "Outdoor and adventure gear"
+      - "Professional development courses and books"
+    sage_approach: >
+      Honor the aspiration — the desire to grow is genuinely positive. Help the user test
+      the aspiration before purchasing for it. Suggest borrowing, renting, or trying a free
+      version first. Introduce the idea of earning a purchase through consistent practice
+      (run in old shoes for a month, then buy new ones). Help them recognize the pattern
+      without cynicism — it's not about giving up on aspirations, it's about building the
+      habit before buying the gear.

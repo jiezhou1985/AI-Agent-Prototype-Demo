@@ -1,0 +1,128 @@
+communities:
+  - id: "comm_tool_share"
+    name: "Maplewood Commons Tool Library"
+    type: "Apartment building tool-share"
+    description: >
+      A tool-sharing program in a 48-unit apartment building in SE Portland, OR. Residents
+      contribute tools they own to a shared storage room in the basement, managed by a
+      volunteer coordinator. Started when three neighbors realized they all bought the same
+      drill within a month. Now includes power tools, gardening equipment, kitchen appliances
+      (stand mixers, food processors, pressure canners), and camping gear. A simple checkout
+      sheet on the door tracks who has what.
+    size: "48 households, approximately 30 active participants"
+    sharing_norms: >
+      Items are donated or loaned on a trust basis. No fees, but participants are expected to
+      return items clean and in working order. If something breaks through normal use, the
+      community fund covers replacement. The monthly potluck doubles as an informal inventory
+      check and social gathering. New residents are introduced to the library during move-in
+      by the building manager.
+    challenges:
+      - "Accountability is informal — a few items have gone missing with no clear resolution process"
+      - "Insurance and liability questions remain unanswered (what if someone is injured using a shared tool?)"
+      - "Participation skews toward younger, environmentally-motivated residents — older residents are hesitant"
+      - "The volunteer coordinator is burning out and no one has stepped up to share the role"
+      - "Some residents feel awkward borrowing frequently without contributing items of equal value"
+    sage_opportunities:
+      - "Help residents calculate money saved through sharing — making the value visible builds participation"
+      - "Suggest items that are high-value for sharing (expensive, infrequently used) to grow the library strategically"
+      - "Connect users to the tool library when they're about to purchase something the library already has"
+      - "Provide templates for governance — simple rules, checkout systems, and conflict resolution"
+      - "Facilitate the coordinator transition by helping create a shared responsibilities model"
+
+  - id: "comm_buy_nothing"
+    name: "Eastside Buy Nothing Group"
+    type: "Neighborhood buy-nothing group"
+    description: >
+      A hyperlocal gift economy group covering a six-block radius in Minneapolis, MN. Members
+      post items they want to give away, things they're looking for, and skills they can offer.
+      Operates primarily through a private social media group with 340 members. Rooted in the
+      Buy Nothing Project model but has developed its own culture. Regular "porch pickup" culture
+      where items are left on porches for contactless exchange. Has evolved beyond physical goods
+      into skill-sharing (a retired electrician offers free consultations, a college student
+      offers dog walking).
+    size: "340 members, approximately 80 active weekly posters, 150+ active browsers"
+    sharing_norms: >
+      Everything is free — no trades, bartering, or selling. The etiquette is to post items you
+      want to give, and interested members comment. The giver chooses the recipient (some use
+      random selection, some prioritize expressed need). Gratitude posts are common and
+      encouraged. There is an implicit norm of reciprocity — regular takers who never give are
+      gently noticed, though no one is excluded. Skill shares and "lends" (temporary borrowing)
+      are increasingly popular.
+    challenges:
+      - "The group can inadvertently reinforce consumption — people take free things they don't need because they're free"
+      - "Moderation is time-consuming, especially preventing covert selling or self-promotion"
+      - "Equity concerns — members with cars can pick up items more easily than those without"
+      - "Some members feel social pressure to perform gratitude publicly"
+      - "The platform they use (social media) is itself a consumption-driving environment"
+    sage_opportunities:
+      - "Help users pause before claiming free items — 'Would you buy this?' as a filter for free stuff too"
+      - "Connect Sage users to their local buy-nothing group as an alternative to purchasing"
+      - "Highlight skill-sharing as an expansion beyond physical goods"
+      - "Suggest items users own but don't use as candidates for gifting — making decluttering social and positive"
+      - "Provide a mindful claiming framework: need it, will use it this week, have space for it"
+
+  - id: "comm_sustainability"
+    name: "The Enough Collective"
+    type: "Online sustainability community"
+    description: >
+      An online community of approximately 2,800 members focused on intentional consumption
+      and sustainable living. Started as a blog comment section, grew into a forum, and now
+      operates across a dedicated platform and weekly video calls. Members range from strict
+      minimalists to people simply trying to buy less plastic. The culture is supportive and
+      anti-perfectionist — a popular recurring thread is called "Imperfect Progress" where
+      members share both wins and failures. Includes sub-groups for parents, apartment dwellers,
+      rural members, and people navigating sustainability on a tight budget.
+    size: "2,800 members total, 400 active weekly participants, 60-80 on weekly video calls"
+    sharing_norms: >
+      Knowledge-sharing is the primary currency. Members post product reviews focused on
+      longevity and repairability, share DIY tutorials, and recommend local services (repair
+      shops, refill stores, tool libraries). A strong norm against judgment — members who
+      disclose non-sustainable purchases are met with curiosity, not criticism. Monthly
+      challenges (no-buy weeks, repair challenges, wardrobe audits) are popular but
+      participation is always optional. Mentorship pairings match newcomers with experienced
+      members.
+    challenges:
+      - "Online community can become an echo chamber that alienates newcomers who feel they're not 'enough'"
+      - "Sustainability can become its own form of competitive consumption (expensive ethical brands as status)"
+      - "Members with economic privilege can dominate conversations about 'choosing' to buy less"
+      - "Burnout among moderators and organizers who do emotional labor unpaid"
+      - "Tension between systemic-change advocates and individual-action advocates"
+    sage_opportunities:
+      - "Connect Sage users to the community for peer support and accountability"
+      - "Feed anonymized, aggregated data back to the community (with consent) about common struggles"
+      - "Suggest community challenges timed to high-consumption periods (holiday seasons, Prime Day)"
+      - "Help bridge the privilege gap by centering voices of members navigating sustainability on low incomes"
+      - "Provide structured mentorship frameworks to reduce informal burden on experienced members"
+
+  - id: "comm_workplace"
+    name: "Clearwater Financial Wellness Program"
+    type: "Workplace wellness program"
+    description: >
+      A workplace wellness initiative at Clearwater Analytics, a mid-size company (600 employees)
+      in Boise, ID. Traditionally focused on physical health (gym subsidies, step challenges),
+      the program expanded to include financial wellness after an employee survey revealed that
+      financial stress was the number one concern. The consumption-awareness module was added
+      after the financial counselor noticed that many employees earning good salaries were still
+      living paycheck to paycheck due to lifestyle inflation. Participation is voluntary and
+      confidential. Includes lunch-and-learn sessions, a dedicated Slack channel, and optional
+      one-on-one coaching.
+    size: "600 employees total, 85 enrolled in the financial wellness module, 35 active weekly"
+    sharing_norms: >
+      Confidentiality is paramount — nothing shared in sessions or coaching leaves the program.
+      The Slack channel is opt-in and moderated. There is a careful boundary between the program
+      and performance evaluation — managers have no access to participation data. Peer support
+      groups of 4-6 people meet bi-weekly and are organized by life stage (early career, mid-career
+      parents, pre-retirement) rather than income level to reduce comparison. The company provides
+      paid time for participation — one hour per week during work hours.
+    challenges:
+      - "Employees worry that participation signals financial problems and could affect career advancement"
+      - "The workplace itself drives some consumption — business attire expectations, client entertainment, keeping up with colleagues"
+      - "Corporate culture of celebrating promotions with purchases (new car, new watch) is hard to counter from within"
+      - "Some employees feel the company should pay higher wages instead of teaching them to want less"
+      - "The program must avoid feeling paternalistic or like the company is policing personal spending"
+    sage_opportunities:
+      - "Provide anonymous, asynchronous support that removes the stigma of being seen in a financial wellness session"
+      - "Help employees distinguish between workplace-driven consumption (genuine need for professional attire) and lifestyle inflation"
+      - "Offer group challenges that build team connection without spending (potlucks instead of restaurant lunches)"
+      - "Surface aggregate, anonymized trends to program administrators to improve the workplace environment itself"
+      - "Support the pre-retirement group specifically — helping them envision post-career identity beyond earning and spending"

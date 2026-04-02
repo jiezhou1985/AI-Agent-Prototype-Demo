@@ -1,0 +1,248 @@
+users:
+  - user_id: "usr_maya_chen"
+    name: "Maya Chen"
+    age: 28
+    location: "Chicago, IL — urban, Wicker Park neighborhood"
+    household: "Lives alone in a one-bedroom apartment"
+    income_bracket: medium
+    primary_motivation: "I want to stop spending money on things that don't actually make me happy. I keep buying stuff after bad days at work and then feeling worse about it."
+    consumption_patterns:
+      - category: "Clothing and accessories"
+        frequency: "2-4 online orders per week"
+        emotional_trigger: "End-of-workday stress, comparison after scrolling Instagram"
+      - category: "Skincare and beauty"
+        frequency: "Weekly new product purchases"
+        emotional_trigger: "Targeted ads that appear right when she's feeling insecure"
+      - category: "Food delivery"
+        frequency: "5-6 times per week"
+        emotional_trigger: "Too tired to cook, treats it as self-care"
+    values:
+      - "I care about experiences over things — at least I want to"
+      - "I believe in being honest with myself even when it's uncomfortable"
+      - "I think creativity matters more than consumption"
+    goals:
+      - "Save $8,000 for a three-month trip to Southeast Asia"
+      - "Go one full week without an impulse purchase"
+      - "Find healthier ways to decompress after work"
+    challenges:
+      - "Recommendation algorithms know her patterns — she gets targeted at her most vulnerable moments"
+      - "Her social circle treats shopping as bonding activity"
+      - "Unsubscribing from marketing emails feels like it takes more willpower than she has at 10pm"
+    session_history_summary: "Maya has completed 12 sessions over 6 weeks. Early sessions focused on awareness — mapping her spending to emotional states. She discovered her peak impulse window is 8-11pm on weekdays. She successfully implemented a 24-hour cart rule but broke it twice during a stressful project deadline. Recently asked Sage to help her find free creative outlets for evenings."
+
+  - user_id: "usr_david_okafor"
+    name: "David Okafor"
+    age: 45
+    location: "Naperville, IL — suburban"
+    household: "Married to Stacey, two children ages 10 and 13"
+    income_bracket: high
+    primary_motivation: "My daughter asked me why we need three TVs and I didn't have a good answer. I want to be intentional about what I'm teaching my kids about stuff."
+    consumption_patterns:
+      - category: "Premium home goods and appliances"
+        frequency: "Monthly large purchases"
+        emotional_trigger: "Seeing what neighbors have, wanting to provide the 'best' for family"
+      - category: "Children's activities, gear, and electronics"
+        frequency: "Bi-weekly"
+        emotional_trigger: "Guilt about working long hours, compensating with things"
+      - category: "Cars and automotive"
+        frequency: "New vehicle every 18-24 months"
+        emotional_trigger: "Professional image, keeping up with colleagues"
+    values:
+      - "I want my kids to know that character matters more than what you own"
+      - "Hard work should mean freedom, not a bigger treadmill"
+      - "Being a good provider isn't the same as buying a lot"
+    goals:
+      - "Have a family conversation about values vs. things"
+      - "Keep his current car for at least four years"
+      - "Redirect spending toward family experiences — camping, cooking together, volunteering"
+    challenges:
+      - "His social circle in Naperville is affluent — the baseline for 'normal' is very high"
+      - "Wife Stacey is somewhat resistant to changes, sees current lifestyle as earned reward"
+      - "Business culture equates premium brands with success and competence"
+    session_history_summary: "David has completed 8 sessions over 4 weeks. He initially framed it as being about his kids but gradually recognized his own status-seeking patterns. Had a breakthrough moment when he tracked that he felt anxious, not happy, after buying a new grill he didn't need. Currently working on scripting conversations with Stacey about family values and spending."
+
+  - user_id: "usr_priya_sharma"
+    name: "Priya Sharma"
+    age: 34
+    location: "Oakland, CA — urban"
+    household: "Single parent with 7-year-old daughter Meera"
+    income_bracket: low
+    primary_motivation: "I don't buy too much — I can't afford to. But I feel terrible that Meera doesn't have what the other kids have. I want to stop feeling guilty about that."
+    consumption_patterns:
+      - category: "Children's items"
+        frequency: "Occasional, carefully budgeted"
+        emotional_trigger: "Meera comparing herself to classmates, school events requiring supplies or costumes"
+      - category: "Groceries"
+        frequency: "Weekly, planned with coupons"
+        emotional_trigger: "No emotional trigger — this is baseline necessity purchasing"
+      - category: "Self-care"
+        frequency: "Rarely"
+        emotional_trigger: "Sometimes buys herself a small treat when guilt about Meera becomes overwhelming"
+    values:
+      - "Love and time are worth more than anything you can buy"
+      - "I want Meera to grow up resourceful and creative, not materialistic"
+      - "There's no shame in living within your means — but the world makes it feel like there is"
+    goals:
+      - "Develop genuine peace about her financial situation, not just coping"
+      - "Help Meera build resilience against peer comparison without dismissing her feelings"
+      - "Build a community of families who share similar values"
+    challenges:
+      - "Agent must not assume overconsumption — Priya's relationship with money is scarcity, not excess"
+      - "School culture implicitly rewards expensive gear, birthday parties, and branded items"
+      - "Priya sometimes over-restricts her own spending to the point of self-neglect"
+    session_history_summary: "Priya has completed 15 sessions over 8 weeks. Sage adapted early after detecting that Priya's pattern is under-consumption and guilt, not overspending. Sessions have focused on reframing worth, scripting age-appropriate conversations with Meera about money, and identifying free enrichment resources in Oakland. Priya recently celebrated finding a family co-op for shared children's clothing."
+
+  - user_id: "usr_marcus_williams"
+    name: "Marcus Williams"
+    age: 22
+    location: "Atlanta, GA — urban, near Georgia State campus"
+    household: "Shares an apartment with two roommates"
+    income_bracket: low
+    primary_motivation: "I'm broke but I feel like I need all this stuff. Every podcast has an ad, every influencer is selling something. I want to figure out what I actually need vs. what I've been convinced I need."
+    consumption_patterns:
+      - category: "Tech accessories and gadgets"
+        frequency: "1-2 purchases per month, often financed"
+        emotional_trigger: "YouTube reviews, fear of missing out on productivity tools"
+      - category: "Fitness supplements and gear"
+        frequency: "Monthly subscription boxes"
+        emotional_trigger: "Fitness influencer culture, body image pressure"
+      - category: "Sneakers and streetwear"
+        frequency: "Occasional drops, but researches constantly"
+        emotional_trigger: "Social identity, peer group culture"
+    values:
+      - "I want to build real wealth, not just look like I have it"
+      - "Being smart with money is a skill no one taught me"
+      - "I don't want to be manipulated by companies that see me as a demographic"
+    goals:
+      - "Distinguish between genuine needs and manufactured wants"
+      - "Cancel at least three subscriptions he's paying for but not using"
+      - "Build a basic emergency fund"
+    challenges:
+      - "Advertising targeting young Black men is relentless and sophisticated"
+      - "Some purchases are genuine needs he can't afford — the line between want and need is genuinely blurry"
+      - "Buy-now-pay-later makes everything feel affordable until it isn't"
+    session_history_summary: "Marcus has completed 6 sessions over 3 weeks. He started skeptical but engaged after Sage helped him calculate that his unused subscriptions totaled $127/month. Currently working on an ad-literacy exercise — tracking every ad he encounters for a week and rating whether it created a need he didn't have before. He's also using Sage's need-vs-want framework before purchases."
+
+  - user_id: "usr_linda_bergstrom"
+    name: "Linda Bergstrom"
+    age: 67
+    location: "Eau Claire, WI — rural outskirts"
+    household: "Lives alone in the house she shared with her late husband Glenn"
+    income_bracket: low
+    primary_motivation: "I know I buy things I don't need from the TV. I'm not stupid about it. I just... it fills the quiet. My daughter wants me to stop and she's right, but she doesn't understand the quiet."
+    consumption_patterns:
+      - category: "Home shopping network items"
+        frequency: "3-5 orders per week"
+        emotional_trigger: "Loneliness, especially evenings and weekends. The hosts feel like company."
+      - category: "Kitchen gadgets and home decor"
+        frequency: "Weekly"
+        emotional_trigger: "Nostalgia for when she cooked for Glenn, imagining a more beautiful home"
+      - category: "Gifts for grandchildren"
+        frequency: "Bi-weekly"
+        emotional_trigger: "Wanting to feel needed, maintaining connection"
+    values:
+      - "I raised three kids on a teacher's salary and never wasted a dime — I don't know how I got here"
+      - "Connection with people is what matters, but it's hard to find at my age"
+      - "I don't want to be a burden, and I don't want to leave my kids a house full of junk"
+    goals:
+      - "Reduce clutter — two spare rooms are now full of unopened packages"
+      - "Find real social connection to replace parasocial TV relationships"
+      - "Feel in control of her finances again before they become a problem"
+    challenges:
+      - "Loneliness is the root cause — reducing spending without addressing it will fail"
+      - "Limited mobility and rural location make in-person socializing harder"
+      - "Her daughter's approach (criticism, taking away the remote) has created shame"
+    session_history_summary: "Linda has completed 20 sessions over 10 weeks, making her one of the most engaged users. She initially resisted the idea that loneliness drove her buying, but opened up in session 5. Sage helped her find a virtual book club and a local senior center with a shuttle service. Her ordering has decreased from 4-5 per week to 1-2. She still watches the shopping channels but now texts her daughter during them instead of ordering."
+
+  - user_id: "usr_kenji_tanaka"
+    name: "Kenji Tanaka"
+    age: 38
+    location: "San Francisco, CA — urban, SoMa district"
+    household: "Lives with partner Alex in a two-bedroom condo"
+    income_bracket: high
+    primary_motivation: "I donate to environmental causes, I vote for climate policy, and then I buy a new phone every year. I know it's contradictory. I want to actually live my values."
+    consumption_patterns:
+      - category: "Consumer electronics"
+        frequency: "New phone annually, new laptop every 18 months, plus accessories and smart home devices"
+        emotional_trigger: "Product launch events, spec comparisons, identity as an early adopter"
+      - category: "Outdoor and fitness gear"
+        frequency: "Seasonal major purchases"
+        emotional_trigger: "Aspiration — buys gear for activities he does once then abandons"
+      - category: "Streaming and digital subscriptions"
+        frequency: "14 active subscriptions"
+        emotional_trigger: "Low individual cost makes each one feel trivial"
+    values:
+      - "The planet is in crisis and individual choices do matter"
+      - "Technology should serve human flourishing, not just novelty"
+      - "I want to be someone who walks the walk, not just talks"
+    goals:
+      - "Keep his current phone for at least three years"
+      - "Audit and reduce subscriptions to the five he actually uses"
+      - "Develop a personal environmental impact budget that includes consumption"
+    challenges:
+      - "Tech is deeply tied to his professional identity as a software engineer"
+      - "He compartmentalizes — his environmental self and his consumer self don't talk to each other"
+      - "Partner Alex is supportive but also a tech enthusiast, so there's no friction at home"
+    session_history_summary: "Kenji has completed 10 sessions over 5 weeks. The turning point was when Sage helped him calculate the carbon footprint of his electronics purchases vs. his donations. He's currently in a 'tech fast' — no new device purchases for 90 days. He's on day 34 and reports that the urge is strongest during product announcement seasons. He's started a blog about sustainable tech as an alternative outlet."
+
+  - user_id: "usr_amara_diallo"
+    name: "Amara Diallo"
+    age: 31
+    location: "Minneapolis, MN — urban, Cedar-Riverside neighborhood"
+    household: "Lives with her mother, aunt, and two younger cousins in a shared household"
+    income_bracket: medium
+    primary_motivation: "In my family, generosity means spending. When I visit Senegal, I'm expected to bring gifts for everyone. When someone here has a celebration, we all contribute money. I love my culture but I need to find my own balance."
+    consumption_patterns:
+      - category: "Gifts and remittances"
+        frequency: "Monthly family obligations, plus celebrations"
+        emotional_trigger: "Cultural duty, fear of being seen as selfish or too Americanized"
+      - category: "Clothing and fashion"
+        frequency: "Moderate, with spikes around cultural events"
+        emotional_trigger: "Wanting to honor traditions, look appropriate for community gatherings"
+      - category: "Household contributions"
+        frequency: "Weekly shared expenses"
+        emotional_trigger: "Responsibility as the highest earner in the household"
+    values:
+      - "Generosity is beautiful — I never want to lose that part of my culture"
+      - "But I also deserve to build my own future, and that's not selfish"
+      - "I want to find a way to be generous that doesn't mean I'm always broke by the 20th of the month"
+    goals:
+      - "Set boundaries on gift spending without damaging family relationships"
+      - "Build personal savings while still contributing to the household"
+      - "Find non-monetary ways to express generosity and love"
+    challenges:
+      - "Cultural expectations are powerful — opting out of gift-giving norms feels like rejecting her identity"
+      - "Her mother sees Amara's income as family income, which creates tension"
+      - "Western financial advice (just say no, set boundaries) ignores the communal economic model she was raised in"
+    session_history_summary: "Amara has completed 9 sessions over 5 weeks. Sage adapted its approach after Amara pushed back on standard budgeting advice that felt culturally tone-deaf. Sessions now honor the communal economic model while helping Amara negotiate her own needs within it. She's drafting a proposal for her family about a shared savings pool that would protect everyone while letting individuals build personal reserves."
+
+  - user_id: "usr_jordan_reeves"
+    name: "Jordan Reeves"
+    age: 19
+    location: "Portland, OR — urban, inner southeast"
+    household: "Lives in a shared house with four other young adults"
+    income_bracket: low
+    primary_motivation: "Clothes and aesthetics are how I figure out who I am. I don't want to stop expressing myself — I want to do it without going broke or trashing the planet."
+    consumption_patterns:
+      - category: "Clothing and accessories"
+        frequency: "Weekly thrift store visits plus monthly online purchases"
+        emotional_trigger: "Identity exploration, gender expression, feeling seen"
+      - category: "Art supplies and zines"
+        frequency: "Bi-weekly"
+        emotional_trigger: "Creative expression, community participation"
+      - category: "Aesthetic home items and decor"
+        frequency: "Monthly"
+        emotional_trigger: "Curating personal space as an extension of identity"
+    values:
+      - "How I present myself to the world isn't shallow — it's survival and joy"
+      - "Sustainability matters but so does accessibility — not everyone can afford ethical brands"
+      - "I'd rather own ten things I love than a hundred things that are just okay"
+    goals:
+      - "Build a capsule wardrobe that feels expressive but isn't wasteful"
+      - "Learn clothing repair and alteration skills"
+      - "Spend less than $50/month on non-essential items"
+    challenges:
+      - "Agent must not dismiss the genuine importance of self-expression, especially for a non-binary young person"
+      - "Fast fashion is affordable and accessible in ways ethical fashion is not"
+      - "Social media aesthetics create constant pressure to refresh and update personal style"
+    session_history_summary: "Jordan has completed 7 sessions over 4 weeks. Sage validated the importance of self-expression from the start, which built trust. Sessions focus on sustainable style — thrifting strategies, clothing swaps, DIY alteration skills. Jordan organized a clothing swap at their house that 15 people attended, which they described as 'the most fun I've had in months and I didn't spend a dollar.' Currently exploring a mending workshop at a local maker space."
