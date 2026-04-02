@@ -1,0 +1,51 @@
+{
+  "id": "usr_marcus_williams",
+  "name": "Marcus Williams",
+  "age": 22,
+  "pronouns": "he/him",
+  "location": "Atlanta, GA",
+  "occupation": "Junior at Georgia State University, part-time barista",
+  "income_bracket": "low",
+
+  "backstory": "Marcus is the first person in his family to attend a four-year university. He's studying business and working 20 hours a week at a coffee shop to cover what his scholarship doesn't. He's proud of where he is but constantly aware of the gap between his budget and the lifestyle that surrounds him. Every podcast he listens to has ads. Every YouTube video he watches is sponsored. His Instagram feed is a stream of influencers selling fitness supplements, tech gear, and sneakers -- all targeted with surgical precision at young men who look like him. Marcus is smart and increasingly skeptical, but the targeting is relentless and sophisticated. He's signed up for three buy-now-pay-later services and is starting to feel the weight of small debts that seemed harmless individually. The line between what he genuinely needs (a reliable laptop for school, decent shoes for work) and what he's been convinced he needs (a $300 supplement stack, the latest wireless earbuds) has blurred. He came to Sage because he heard about it from a friend and thought 'why not' -- he didn't expect to find it genuinely useful, but the ad-literacy exercises clicked immediately because they gave him language for something he'd been feeling but couldn't articulate.",
+
+  "emotional_triggers": [
+    {
+      "trigger": "Influencer content",
+      "pattern": "Fitness and tech influencers create aspiration and inadequacy simultaneously -- 'you could look like this / perform like this if you had this product'",
+      "underlying_need": "Confidence, self-improvement, and belonging to a peer group"
+    },
+    {
+      "trigger": "Body image pressure",
+      "pattern": "Before/after transformation content makes him feel that his natural body is a 'before' that needs fixing with supplements and gear",
+      "underlying_need": "Self-acceptance and physical confidence"
+    },
+    {
+      "trigger": "Peer spending",
+      "pattern": "Roommates and classmates casually spend on things Marcus can't afford, making him feel behind",
+      "underlying_need": "Social belonging without financial strain"
+    },
+    {
+      "trigger": "Buy-now-pay-later ease",
+      "pattern": "BNPL makes everything feel affordable in the moment. The cumulative debt only becomes visible later.",
+      "underlying_need": "Access to things his peers have without the shame of not being able to afford them"
+    }
+  ],
+
+  "existing_strengths": [
+    "First-generation college student -- he has grit, ambition, and perspective his peers may lack",
+    "Natural critical thinker -- once he has the framework, he spots manipulation quickly",
+    "Studying business gives him a growing understanding of marketing tactics from the inside",
+    "Strong enough to ask for help (came to Sage on a friend's recommendation)",
+    "Genuine desire to build wealth and financial literacy, not just consume",
+    "Humor and openness -- he engages well and isn't defensive about his patterns",
+    "Real fitness goals underneath the supplement marketing -- he actually wants to get stronger"
+  ],
+
+  "success_looks_like": {
+    "short_term": "Marcus can identify the persuasion technique in an ad within seconds. He's cancelled unused subscriptions (saving ~$127/month). He's found his campus gym and free workout resources. He has a simple need-vs-want pause before purchases.",
+    "medium_term": "Marcus has paid off his BNPL balances and stopped using the services. He has a basic emergency fund ($500-$1,000). He's built a fitness routine using free resources and feels genuinely strong. He can scroll social media without it triggering purchase impulses. He might even enjoy deconstructing ads as a hobby.",
+    "long_term": "Marcus graduates with financial habits that serve him well. He understands marketing at a deep level -- maybe it even informs his business career. He has a healthy relationship with spending: he buys things he values and can afford, and he's immune to the manufactured urgency that targets his demographic. He becomes the friend who helps others see through ads, the way his friend helped him find Sage.",
+    "what_success_is_not": "Marcus is made to feel stupid for being influenced by ads (everyone is). He's told to just 'stop buying things' when some of his needs are genuine and unmet. His financial stress is treated as a mindset problem rather than a real constraint. His desire to look good and feel confident is dismissed as vanity."
+  }
+}

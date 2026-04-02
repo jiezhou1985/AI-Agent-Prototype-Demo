@@ -1,0 +1,51 @@
+{
+  "id": "usr_jordan_reeves",
+  "name": "Jordan Reeves",
+  "age": 19,
+  "pronouns": "they/them",
+  "location": "Portland, OR",
+  "occupation": "Part-time barista and community college student (studying graphic design)",
+  "income_bracket": "low",
+
+  "backstory": "Jordan left a small town in eastern Oregon at 18 to move to Portland, where they could be openly non-binary for the first time in their life. The move was liberating and terrifying. They live in a shared house with four other young adults and work part-time while studying graphic design at community college. For Jordan, clothing and aesthetics are not superficial -- they are how they communicate who they are to a world that often doesn't have a category for them. A thrift store find that captures exactly the right vibe can make them feel seen in a way that nothing else does. The problem isn't that they care about clothes and aesthetics; it's that the pressure to constantly refresh, update, and curate their look is expensive and exhausting. Instagram and TikTok style accounts create a treadmill of micro-trends. Fast fashion makes it cheap to keep up in the short term but wasteful in the long term. Jordan cares about sustainability -- they organize clothing swaps and shop secondhand -- but ethical fashion is priced for people with trust funds, not baristas. They came to Sage because they want to express themselves without going broke or contributing to a system they disagree with. They are wary of anyone who might tell them to 'just stop caring about clothes' because for a non-binary person, presentation is not vanity -- it's identity and sometimes safety.",
+
+  "emotional_triggers": [
+    {
+      "trigger": "Social media style content",
+      "pattern": "Seeing curated aesthetics on Instagram/TikTok creates pressure to constantly evolve their look. What felt fresh last month now feels stale.",
+      "underlying_need": "To feel current, seen, and authentic in their self-expression"
+    },
+    {
+      "trigger": "Dysphoria days",
+      "pattern": "On days when gender dysphoria is strong, buying something that feels 'right' can be a powerful relief. Denying this impulse can worsen the dysphoria.",
+      "underlying_need": "Gender affirmation and bodily comfort through external presentation"
+    },
+    {
+      "trigger": "Community belonging",
+      "pattern": "Portland's queer community has strong aesthetic codes. Looking 'right' signals belonging. Looking wrong -- or dated -- can feel like exclusion.",
+      "underlying_need": "Social belonging and recognition within their community"
+    },
+    {
+      "trigger": "Ethical guilt vs. financial reality",
+      "pattern": "Wanting to buy sustainable/ethical but being unable to afford it creates a frustrating guilt cycle",
+      "underlying_need": "To live their values without being priced out of doing so"
+    }
+  ],
+
+  "existing_strengths": [
+    "Courage: they left their hometown at 18 to live authentically -- that takes extraordinary bravery",
+    "Creative eye: their graphic design studies and personal style reflect genuine artistic talent",
+    "Community builder: they organized a clothing swap that drew 15 people and was a hit",
+    "Already practices sustainability: shops secondhand, swaps, and is interested in mending/alteration",
+    "Self-aware about the tension between expression and consumption",
+    "Resourceful: they thrift skillfully and can spot quality in secondhand shops",
+    "Values clarity: they know that self-expression matters AND sustainability matters, and they want both"
+  ],
+
+  "success_looks_like": {
+    "short_term": "Jordan has a working capsule wardrobe concept that feels expressive, not restrictive. They've attended a mending workshop and can do basic repairs. They spend under $50/month on non-essential items most months. They can scroll style content without it triggering a purchase impulse.",
+    "medium_term": "Jordan's closet is smaller but every piece feels right. They've developed alteration and customization skills that make secondhand finds uniquely theirs. The clothing swaps have become a regular community event. They've started a small side project (a zine, an Instagram, a blog) about sustainable queer fashion that channels their creative energy.",
+    "long_term": "Jordan has a personal style that evolves through creativity rather than purchasing. They're known in their community as someone who looks amazing on a tiny budget. Their relationship with clothes is joyful and intentional -- they still love fashion, they've just broken the treadmill. Their graphic design career may even intersect with sustainable fashion. They've proven that self-expression doesn't require constant consumption.",
+    "what_success_is_not": "Jordan is told to stop caring about how they look. Their identity expression is dismissed as shallow or materialistic. Sustainability advice assumes they can afford $80 ethical t-shirts. Their dysphoria-driven purchases are pathologized rather than understood. They're made to feel guilty for wanting to look good."
+  }
+}

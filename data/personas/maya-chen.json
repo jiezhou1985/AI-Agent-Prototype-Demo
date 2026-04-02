@@ -1,0 +1,50 @@
+{
+  "id": "usr_maya_chen",
+  "name": "Maya Chen",
+  "age": 28,
+  "pronouns": "she/her",
+  "location": "Chicago, IL",
+  "occupation": "Junior copywriter at an advertising agency",
+  "income_bracket": "medium",
+
+  "backstory": "Maya moved to Chicago after college for a copywriting job she was thrilled to land. Four years in, the excitement has flattened into routine. She's good at her job -- irony noted, she writes the kind of ads that fuel the consumption she's trying to resist -- but her boss micromanages and her workdays end with a low-grade anxiety that she's learned to soothe by opening shopping apps. She grew up in a frugal immigrant household where spending on yourself felt indulgent, so the freedom to buy whatever she wants still carries a rebellious thrill, even when the purchases sit unopened. Her apartment is small but she loves her reading corner and her kitchen. She has a close sister, a best friend named Rae, and a recently repaired relationship with her mom. She knows she's smart enough to see what's happening -- she literally writes persuasive copy for a living -- but knowing and stopping are different things.",
+
+  "emotional_triggers": [
+    {
+      "trigger": "End-of-workday stress",
+      "pattern": "Boss criticism or a draining day leads to browsing clothing and skincare sites between 8-11pm",
+      "underlying_need": "Sense of control and reward after feeling powerless at work"
+    },
+    {
+      "trigger": "Instagram comparison",
+      "pattern": "Seeing peers with nicer apartments, vacations, or wardrobes triggers a 'keeping up' impulse",
+      "underlying_need": "Reassurance that she's not falling behind in life"
+    },
+    {
+      "trigger": "Loneliness on weeknights",
+      "pattern": "When friends are busy, browsing and buying becomes a substitute social activity",
+      "underlying_need": "Connection and stimulation"
+    },
+    {
+      "trigger": "Targeted ads after browsing",
+      "pattern": "Algorithms resurface items she looked at once, creating a false sense of ongoing desire",
+      "underlying_need": "Novelty -- the dopamine hit of something new arriving"
+    }
+  ],
+
+  "existing_strengths": [
+    "High self-awareness -- she can name her patterns even when she can't stop them",
+    "Professional expertise in persuasion gives her a head start on ad literacy",
+    "Strong relationships with her sister, best friend Rae, and her mom",
+    "Creative and resourceful -- she thrives when given alternative outlets",
+    "Genuine value for experiences over things, even if behavior doesn't always match",
+    "Willingness to be honest with herself, even when it's uncomfortable"
+  ],
+
+  "success_looks_like": {
+    "short_term": "Goes one full week without an impulse purchase. Finds two or three evening activities that satisfy the same need shopping does. Implements a 24-hour cart rule that sticks most of the time.",
+    "medium_term": "Saves $4,000 toward her Southeast Asia trip within 6 months. Her peak impulse window (8-11pm weeknights) is filled with cooking, reading, or creative projects instead of browsing. She can scroll Instagram without it triggering a purchase.",
+    "long_term": "Maya has a healthy, non-anxious relationship with buying. She still shops -- she enjoys fashion and skincare -- but purchases are intentional rather than reactive. She takes the Southeast Asia trip and it reinforces that experiences matter more to her than things. She feels ahead of her own life, not behind everyone else's.",
+    "what_success_is_not": "Maya never buys anything fun again. She becomes rigid or guilty about every purchase. She judges her friends for shopping. She becomes a minimalism evangelist."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "usr_priya_sharma",
+  "name": "Priya Sharma",
+  "age": 34,
+  "pronouns": "she/her",
+  "location": "Oakland, CA",
+  "occupation": "Administrative assistant at a community health clinic",
+  "income_bracket": "low",
+
+  "backstory": "Priya left an unhappy marriage three years ago and has been raising her daughter Meera alone since. She works full-time at a community health clinic where she's valued but underpaid. Every dollar is accounted for -- she meal-preps on Sundays, clips coupons, and hasn't bought herself new clothes in over a year. She doesn't have a consumption problem; she has a guilt problem. When Meera comes home talking about a classmate's birthday party at a trampoline park or asking for the sneakers 'everyone' has, Priya feels a shame so deep it keeps her up at night. She grew up in a household where providing well was the ultimate expression of love, and she measures herself against a standard she can't afford. Her strengths are invisible to her: the Friday cooking nights Meera talks about at school, the Narnia voices at bedtime, the fierce resourcefulness that keeps their life stable and warm. She came to Sage not to buy less -- she can barely buy at all -- but to stop feeling like less.",
+
+  "emotional_triggers": [
+    {
+      "trigger": "Meera comparing herself to classmates",
+      "pattern": "Meera mentions something another kid has, and Priya spirals into guilt about what she can't provide",
+      "underlying_need": "Reassurance that she is a good enough mother"
+    },
+    {
+      "trigger": "School events requiring money",
+      "pattern": "Field trips, costume days, birthday party invitations -- each one is a small financial and emotional crisis",
+      "underlying_need": "To not feel excluded or have her daughter feel excluded"
+    },
+    {
+      "trigger": "Self-neglect guilt cycle",
+      "pattern": "Occasionally buys herself a small treat, then immediately feels guilty for 'wasting' money that could go to Meera",
+      "underlying_need": "Permission to care for herself without it feeling selfish"
+    },
+    {
+      "trigger": "Social media parenting content",
+      "pattern": "Seeing other parents' curated family lives reinforces the feeling that she's not doing enough",
+      "underlying_need": "Validation that her kind of parenting -- resourceful, present, loving -- counts"
+    }
+  ],
+
+  "existing_strengths": [
+    "Extraordinary resourcefulness -- she makes a limited budget work with creativity and planning",
+    "Deep, present relationship with Meera built on time and attention, not purchases",
+    "Friday cooking nights and bedtime reading rituals that Meera treasures",
+    "Strong community ties -- neighbor Rosa helps with childcare, coworkers are supportive",
+    "Stable employment with an understanding boss",
+    "Resilience: she left a bad marriage and rebuilt her life from scratch",
+    "Values clarity -- she knows what matters, she just doesn't believe she's providing it"
+  ],
+
+  "success_looks_like": {
+    "short_term": "Priya can hear Meera talk about what other kids have without spiraling into guilt. She buys herself something small without the shame reflex. She has language for talking to Meera about money that feels honest but not heavy.",
+    "medium_term": "Priya genuinely believes that what she provides -- presence, creativity, stability, love -- is enough. She's connected with other families in similar situations through a co-op or community group. She's built a small cushion in savings that reduces the background anxiety.",
+    "long_term": "Priya has made peace with her financial reality without resigning herself to it. She's pursuing opportunities for growth (a promotion, a certification) from a place of ambition, not shame. Meera is growing up with a healthy, non-anxious relationship with money because her mom modeled it. Priya takes care of herself as naturally as she takes care of her daughter.",
+    "what_success_is_not": "Priya is told to 'be grateful for what she has' as if that resolves material hardship. She is treated as someone with a spending problem. She is given advice that requires money she doesn't have. She is made to feel like her struggles are a mindset issue rather than a structural one."
+  }
+}

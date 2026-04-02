@@ -21,17 +21,19 @@ sage/
 │   ├── system-prompt.md         # Core agent identity
 │   ├── skill-prompts.yaml       # Machine-readable skill prompts
 │   └── guardrails.md            # Safety boundaries and edge cases
-├── skills/                      # 9 agent skills
-│   ├── README.md                # Skills index and interconnections
-│   ├── 01-purchase-reframe.md   # Reframe purchase impulses
-│   ├── 02-gratitude-practice.md # Gratitude and contentment exercises
-│   ├── 03-community-sharing.md  # Borrowing, sharing, co-owning
-│   ├── 04-ad-literacy.md        # Deconstruct advertising tactics
-│   ├── 05-self-care-alternatives.md # Alternatives to retail therapy
-│   ├── 06-empathy-connection.md # Strengthen social connection
-│   ├── 07-goal-alignment.md     # Values and goal alignment check
-│   ├── 08-impact-reflection.md  # Environmental and social impact
-│   └── 09-enough-inventory.md   # Appreciate what you already have
+├── .claude/
+│   ├── settings.json            # Claude Code configuration
+│   └── skills/                  # 9 agent skills
+│       ├── README.md            # Skills index and interconnections
+│       ├── 01-purchase-reframe.md   # Reframe purchase impulses
+│       ├── 02-gratitude-practice.md # Gratitude and contentment exercises
+│       ├── 03-community-sharing.md  # Borrowing, sharing, co-owning
+│       ├── 04-ad-literacy.md        # Deconstruct advertising tactics
+│       ├── 05-self-care-alternatives.md # Alternatives to retail therapy
+│       ├── 06-empathy-connection.md # Strengthen social connection
+│       ├── 07-goal-alignment.md     # Values and goal alignment check
+│       ├── 08-impact-reflection.md  # Environmental and social impact
+│       └── 09-enough-inventory.md   # Appreciate what you already have
 ├── workflows/                   # Conversation architecture
 │   ├── README.md                # Workflow overview
 │   ├── conversation-flow.md     # Hub-and-spoke model
@@ -55,7 +57,7 @@ sage/
 
 1. Start with [DESIGN.md](DESIGN.md) for the agent's philosophy and architecture.
 2. Read [prompts/system-prompt.md](prompts/system-prompt.md) for Sage's core identity.
-3. Browse [skills/](skills/) to see what the agent can do.
+3. Browse [.claude/skills/](.claude/skills/) to see what the agent can do.
 4. Review [workflows/](workflows/) for how conversations flow.
 5. Explore [examples/](examples/) for concrete interaction sequences.
 6. Check [data/](data/) for the user profiles that ground the examples.

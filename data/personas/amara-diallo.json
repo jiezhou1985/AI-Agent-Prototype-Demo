@@ -1,0 +1,51 @@
+{
+  "id": "usr_amara_diallo",
+  "name": "Amara Diallo",
+  "age": 31,
+  "pronouns": "she/her",
+  "location": "Minneapolis, MN",
+  "occupation": "Accounts manager at a logistics company",
+  "income_bracket": "medium",
+
+  "backstory": "Amara came to the US from Senegal with her mother when she was 14. She's built a solid career and is the highest earner in her household, which includes her mother, her aunt, and two younger cousins. In Senegalese culture, the person who earns the most provides for the family -- this is not a burden she resents but a role she was raised to embrace. The tension isn't with the giving itself; it's with the scale and the expectations. When family visits from Dakar, she's expected to bring gifts for everyone -- good gifts, generous gifts, gifts that show she's doing well in America. When there's a wedding, a naming ceremony, or a funeral, the community contribution is significant. She loves this about her culture. She also has $400 in personal savings at age 31 and feels a quiet panic about it that she can't voice without sounding selfish. American financial advice tells her to 'set boundaries' and 'say no,' which feels like being told to stop being Senegalese. She came to Sage looking for someone who wouldn't tell her that her culture is the problem -- someone who could help her find balance within her values, not by abandoning them.",
+
+  "emotional_triggers": [
+    {
+      "trigger": "Family visits from Senegal",
+      "pattern": "Weeks of financial stress preparing gifts and hosting. The joy of seeing family is mixed with anxiety about the cost.",
+      "underlying_need": "To honor her family and culture without sacrificing her own financial future"
+    },
+    {
+      "trigger": "Mother's expectations",
+      "pattern": "Her mother sees Amara's income as family income. Requests for money come without awareness of Amara's personal financial goals.",
+      "underlying_need": "To be seen as a person with her own needs, not just a provider"
+    },
+    {
+      "trigger": "Community celebrations",
+      "pattern": "Weddings, naming ceremonies, and funerals all require financial contributions. Opting out or contributing less risks social judgment.",
+      "underlying_need": "To belong to her community without it consuming all her resources"
+    },
+    {
+      "trigger": "Western financial advice",
+      "pattern": "Reading or hearing advice like 'just set boundaries' or 'stop giving money to family' triggers frustration and alienation",
+      "underlying_need": "Financial guidance that respects communal economic models, not just individualist ones"
+    }
+  ],
+
+  "existing_strengths": [
+    "Deeply rooted cultural identity that gives her life meaning and connection",
+    "Strong professional skills -- she's earned her position and is respected at work",
+    "Bilingual and bicultural -- she navigates two worlds with grace",
+    "Generous spirit that is genuine, not performative",
+    "Clarity about what she wants: balance, not rejection of her values",
+    "Willingness to have hard conversations -- she pushed back on Sage when it was culturally tone-deaf, which shows she advocates for herself",
+    "Creative problem-solver: she's already thinking about family savings pools and alternative gift approaches"
+  ],
+
+  "success_looks_like": {
+    "short_term": "Amara has language for talking to her mother about personal savings that doesn't feel like betrayal. She's found one or two small adjustments to gift-giving that reduce cost without reducing generosity (handmade items, group gifts, experience-based contributions).",
+    "medium_term": "Amara has proposed and implemented a family savings pool that protects everyone while allowing individual reserves. She has $2,000+ in personal savings. Her family understands her needs without feeling rejected. She's found non-monetary ways to express generosity that feel culturally authentic.",
+    "long_term": "Amara has built genuine financial security while remaining deeply connected to her family and culture. She's a model in her community for how to be generous and financially healthy -- others come to her for advice. Her relationship with her mother has deepened because they've had honest conversations about money. She visits Senegal with joy, not dread about the cost.",
+    "what_success_is_not": "Amara is told her culture is the problem. She's advised to 'set boundaries' in ways that don't account for communal economics. Gift-giving and family support are framed as wasteful. She's made to feel that financial independence requires cultural abandonment. Her generosity is pathologized."
+  }
+}

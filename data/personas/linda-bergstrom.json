@@ -1,0 +1,51 @@
+{
+  "id": "usr_linda_bergstrom",
+  "name": "Linda Bergstrom",
+  "age": 67,
+  "pronouns": "she/her",
+  "location": "Eau Claire, WI (rural outskirts)",
+  "occupation": "Retired -- former elementary school teacher for 35 years",
+  "income_bracket": "low",
+
+  "backstory": "Linda taught third grade for 35 years and raised three children with her husband Glenn on a teacher's salary. She never wasted a dime. Glenn died four years ago, and the quiet that followed was unlike anything she'd prepared for. The house they shared is too big for one person but too full of memories to leave. Her daughter Karen lives two hours away and calls weekly, always with concern that edges into criticism. Her two sons are further and call less. Linda started watching QVC about a year after Glenn died -- not for the products, but for the voices. The hosts are warm, enthusiastic, and always happy to see her (or so it feels). Ordering something means a package arrives in a few days, which means something to look forward to. Two spare bedrooms are now stacked with unopened boxes. Linda knows this is a problem. She's not confused about it. She's a smart woman who spent decades managing a classroom and a household budget. But knowing it's a problem and having the loneliness that drives it are two different things. She came to Sage because her daughter's approach -- criticism, threats to take away her credit card -- made her feel like a child, and she wanted to find her own way.",
+
+  "emotional_triggers": [
+    {
+      "trigger": "Evening silence",
+      "pattern": "The hours between dinner and sleep are the hardest. The house is quiet. The TV fills it. QVC hosts feel like company. Ordering feels like participation.",
+      "underlying_need": "Human presence and connection -- someone who is happy to see her"
+    },
+    {
+      "trigger": "Weekends without plans",
+      "pattern": "Saturdays and Sundays stretch endlessly. Glenn and she used to garden, visit antique shops, have neighbors over. Now the days are unstructured and empty.",
+      "underlying_need": "Routine, purpose, and social contact"
+    },
+    {
+      "trigger": "Wanting to feel needed",
+      "pattern": "Buys gifts for grandchildren frequently -- sending packages gives her a role and a reason to be thought of",
+      "underlying_need": "To matter to someone, to have a place in her family's daily life"
+    },
+    {
+      "trigger": "Daughter's criticism",
+      "pattern": "Karen's well-meaning but heavy-handed interventions (suggesting she's losing it, threatening to manage her finances) trigger defiance and shame simultaneously",
+      "underlying_need": "To be treated as a competent adult who can solve her own problems"
+    }
+  ],
+
+  "existing_strengths": [
+    "35 years of classroom management -- she is organized, patient, and good with people",
+    "Financial literacy: she managed a tight household budget for decades. The current spending is emotional, not ignorance.",
+    "Warmth and humor -- neighbors who do see her enjoy her company",
+    "A lifetime of relationships (church community, former colleagues, old friends) that have gone dormant but are not gone",
+    "Self-awareness: she understands why she shops and is not in denial about it",
+    "Motivation: she does not want to leave her children a house full of junk",
+    "Resilience: she survived loss and rebuilt a daily life, even if it's lonely"
+  ],
+
+  "success_looks_like": {
+    "short_term": "Linda has one or two regular social touchpoints per week -- a phone call, a visit, a virtual group. Her ordering decreases because the loneliness driving it has decreased. She still watches QVC sometimes and that's fine.",
+    "medium_term": "Linda has a small but real social life: a book club, a coffee routine with a neighbor, regular calls with friends. She's addressed the two spare rooms -- donated some items, returned others. She feels in control of her spending again. Her relationship with Karen has improved because Karen sees her mom taking action on her own terms.",
+    "long_term": "Linda has rebuilt a life that has connection, purpose, and enough structure to keep the quiet from becoming overwhelming. She might volunteer (she was a teacher -- she has so much to give). She might mentor a new teacher, tutor kids, or lead a reading group at the senior center. She's not just filling time; she's contributing. The spending problem resolved itself because the loneliness problem was addressed.",
+    "what_success_is_not": "Linda is told to stop watching QVC as if it's an addiction to break. She is made to feel foolish or senile. Her shopping is treated as the problem rather than a symptom of loneliness. She is pressured into social activities she doesn't enjoy. Her grief for Glenn is rushed or minimized."
+  }
+}
