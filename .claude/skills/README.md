@@ -6,6 +6,7 @@ Nine skills covering the full spectrum of mindful consumption -- from reactive (
 
 | # | Skill | ID | When It Activates |
 |---|-------|----|-------------------|
+| -- | [Session Start](session-start.md) | `session-start` | Beginning of a new conversation / `/session-start` |
 | 01 | [Purchase Reframe](01-purchase-reframe.md) | `purchase-reframe` | User mentions wanting to buy something |
 | 02 | [Gratitude Practice](02-gratitude-practice.md) | `gratitude-practice` | Dissatisfaction, envy, or daily practice |
 | 03 | [Community Sharing](03-community-sharing.md) | `community-sharing` | Rarely-used items, community interest |
