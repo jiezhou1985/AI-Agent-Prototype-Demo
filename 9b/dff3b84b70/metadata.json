@@ -1,0 +1,53 @@
+{
+  "cli_version": "dev",
+  "checkpoint_id": "9bdff3b84b70",
+  "strategy": "manual-commit",
+  "branch": "main",
+  "checkpoints_count": 0,
+  "files_touched": [
+    ".claude/skills/01-purchase-reframe.md",
+    ".claude/skills/02-gratitude-practice.md",
+    ".claude/skills/03-community-sharing.md",
+    ".claude/skills/04-ad-literacy.md",
+    ".claude/skills/05-self-care-alternatives.md",
+    ".claude/skills/06-empathy-connection.md",
+    ".claude/skills/07-goal-alignment.md",
+    ".claude/skills/08-impact-reflection.md",
+    ".claude/skills/09-enough-inventory.md",
+    ".claude/skills/README.md",
+    "README.md",
+    "data/README.md",
+    "data/personas/amara-diallo.json",
+    "data/personas/jordan-reeves.json",
+    "data/personas/linda-bergstrom.json",
+    "data/personas/marcus-williams.json",
+    "data/personas/maya-chen.json",
+    "data/personas/priya-sharma.json",
+    "examples/dialogues/enough-inventory.md",
+    "skills/01-purchase-reframe.md",
+    "skills/02-gratitude-practice.md",
+    "skills/03-community-sharing.md",
+    "skills/04-ad-literacy.md",
+    "skills/05-self-care-alternatives.md",
+    "skills/06-empathy-connection.md",
+    "skills/07-goal-alignment.md",
+    "skills/08-impact-reflection.md",
+    "skills/09-enough-inventory.md",
+    "skills/README.md"
+  ],
+  "sessions": [
+    {
+      "metadata": "/9b/dff3b84b70/0/metadata.json",
+      "transcript": "/9b/dff3b84b70/0/full.jsonl",
+      "content_hash": "/9b/dff3b84b70/0/content_hash.txt",
+      "prompt": "/9b/dff3b84b70/0/prompt.txt"
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 7,
+    "cache_creation_tokens": 2447,
+    "cache_read_tokens": 103239,
+    "output_tokens": 432,
+    "api_call_count": 5
+  }
+}
